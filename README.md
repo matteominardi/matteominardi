@@ -1,6 +1,6 @@
 ## <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> About me:
 My passion lies in the profound realm of Artificial Intelligence, embracing its practical applications and the limitless horizons of research
-## 🎓 Education
+## 🎓 Education:
 M.Sc. in Artificial Intelligence Systems (Computer Engineering) at University of Trento - in progress 
 <br>
 B.Sc. in Computer Science at Ca' Foscari University of Venice
